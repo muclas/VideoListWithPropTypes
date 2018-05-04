@@ -1,2 +1,0 @@
-# VideoListWithPropTypes
-Created with CodeSandbox
